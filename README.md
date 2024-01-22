@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### I'm currently a student. I'm going to Shasta College real far up in California for a degree in Computer Science.
 
-I've done Python, C++, and HTML with CSS. The latter two I learned from freeCodeCamp.com.
+I've done **Python**, **C++**, and **HTML with CSS**. The latter two I learned from freeCodeCamp.com.
 
-I have a server that I run self-hosted software on such as Gitea, Nextcloud, Calibre, etc. I also run OPNsense on my home router. My favorite piece of software would have to be Tailscale because I just think it's so amazing how it links all of my services together and makes it easy to add devices.
+I run my own server that I run self-hosted software on such as Gitea, Nextcloud, Calibre, etc. I also run OPNsense on my home router. My favorite piece of software would have to be Tailscale because I just think it's so amazing how it links all of my services together and makes it easy to add devices.
 
-Through doing these projects I've learned a lot about configuring software and getting it to do things that I want it to do. It was A LOT of troubleshooting and learning.
+Through doing these projects I've learned a lot about *configuring software* and getting it to do things that I want it to do. It was A LOT of **troubleshooting** and **learning**.
 
 I've just recently started down the path of coding solutions rather than finding solutions that other people have coded.
