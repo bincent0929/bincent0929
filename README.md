@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a student. I'm going to Shasta College for a degree in Computer Science.
+
+I've done Python, C++, and HTML with CSS. The latter two being from freeCodeCamp.com.
+
+I have a server that I run self-hosted software on such as Gitea, Nextcloud, Calibre, etc. My favorite piece of software would have to be Tailscale because I just think it's so amazing how it links all of my services together and makes it easy to add devices.
